@@ -1,3 +1,3 @@
 # st211-quizzes-6805140010
-Kaung Min Thant
-6805140010
+Name: Kaung Min Thant
+Student ID: 6805140010
